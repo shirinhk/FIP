@@ -1,5 +1,5 @@
-# FIP
-Final Integrated Project
+# FIP (Final Integrated Project)
+
 <img src="images/readmeFilePic.jpg">
 
 This is my 3 pages Website college project. I chose the Cooking Subject and built 3 pages according my to subject. This website is good for some one who likes to get some new ideas for everyday cooking. You can find veggies, chicken, fish and shrimps foods.
