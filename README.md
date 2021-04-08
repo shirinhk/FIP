@@ -2,7 +2,7 @@
 
 <img src="images/readmeFilePic.jpg">
 
-This is my 3 pages Website college project. I chose the Cooking Subject and built 3 pages according my to subject. This website is good for some one who likes to get some new ideas for everyday cooking. You can find veggies, chicken, fish and shrimps foods.
+This is my 3 pages Website college project. I chose the Cooking Subject and built 3 pages according to my subject. This website is good for some one who likes to get some new ideas for everyday cooking. You can find veggies, chicken, fish and shrimps foods.
 
 ## Project Roadmap File
 [Project roadmp Google Doc Link](https://docs.google.com/document/d/1oF_NwDty9O4JJkYLuJkqGNSGNEImnSBv8OObuYSwR_E/edit?usp=sharing)
